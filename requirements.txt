@@ -40,4 +40,4 @@ sorl-thumbnail==12.4.1
 sqlparse==0.2.4
 transifex-client==0.13.4
 Unidecode==1.0.22
-urllib3==1.23
+urllib3==1.26.5

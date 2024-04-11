@@ -18,7 +18,7 @@ django-xmlrpc==0.1.8
 ecdsa==0.13
 fabric==2.2.1
 Fabric3==1.14.post1
-idna==2.7
+idna==3.7
 invoke==1.1.0
 Markdown==2.6.11
 mots-vides==2015.5.11
